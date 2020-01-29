@@ -1,5 +1,3 @@
-Add, in <dir>, a README.txt file that explains how to compile and run the service, so that it is accessible at the entry point described above.
-
 # RestService
 -------------
 
