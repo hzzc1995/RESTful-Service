@@ -20,7 +20,7 @@ The service implements the basic function of GET, POST, DELETE, PUT.
 ## Compilation & Run
 -------------
 
-To comliple and run, pealse run the following command under Simple_RESTful/AddressBook/
+To comliple and run, pealse run the following command under RESTful-Service/AddressBook/
 ```
 mvn spring-boot:run
 ```
