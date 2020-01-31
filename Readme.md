@@ -20,3 +20,8 @@ The service implements the basic function of GET, POST, DELETE, PUT.
 ## Compilation & Run
 -------------
 
+To comliple and run, pealse run the following command under Simple_RESTful/AddressBook/
+```
+mvn spring-boot:run
+```
+Then the RESTful service will get start.
